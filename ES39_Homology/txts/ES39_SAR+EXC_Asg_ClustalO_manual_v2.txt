@@ -1,0 +1,4165 @@
+Ident and Sim results
+Results for LSUa_186497_PYRFU/29 vs LSUASG_B40-G15_FREYA/:
+  Alignment length: 57
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 43.86
+Percent similarity: 43.86
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_1837170_THOR/:
+  Alignment length: 67
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 25.37
+Percent similarity: 25.37
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_2053491_THOR/:
+  Alignment length: 65
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 24.62
+Percent similarity: 24.62
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_2026747_HEIM/:
+  Alignment length: 119
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 11.76
+Percent similarity: 11.76
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_B18G1_HEIM/28:
+  Alignment length: 136
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 13.24
+Percent similarity: 13.24
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_B53-G9_LOKI/2:
+  Alignment length: 101
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 16.83
+Percent similarity: 16.83
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_MK-D1_LOKI/29:
+  Alignment length: 101
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 15.84
+Percent similarity: 15.84
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_NODE_1830/:
+  Alignment length: 227
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 7.93
+Percent similarity: 7.93
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_1538547_LOKI/:
+  Alignment length: 196
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 8.67
+Percent similarity: 8.67
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_NODE_1615/:
+  Alignment length: 199
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 10.05
+Percent similarity: 10.05
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_NODE_2003/:
+  Alignment length: 203
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 12.32
+Percent similarity: 12.32
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 168
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 11.31
+Percent similarity: 11.31
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 168
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 14.29
+Percent similarity: 14.29
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_b32_LOKI/3001:
+  Alignment length: 170
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 11.18
+Percent similarity: 11.18
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 200
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 9.00
+Percent similarity: 9.00
+
+Results for LSUa_186497_PYRFU/29 vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 193
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 9.33
+Percent similarity: 9.33
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_36329_PLAF7/369:
+  Alignment length: 146
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 8.90
+Percent similarity: 8.90
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_35144_PRYPA/306:
+  Alignment length: 86
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 18.60
+Percent similarity: 18.60
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_753081_BIGNC/31:
+  Alignment length: 111
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 15.32
+Percent similarity: 15.32
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_55529_GUITH/362:
+  Alignment length: 152
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 9.87
+Percent similarity: 9.87
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_554453_PLAMI/33:
+  Alignment length: 142
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 16.20
+Percent similarity: 16.20
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_238746_MICPO/32:
+  Alignment length: 134
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 14.18
+Percent similarity: 14.18
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_857967_ICHMG/34:
+  Alignment length: 128
+Identical residues: 8
+  Similar residues: 0
+  Percent identity: 6.25
+Percent similarity: 6.25
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 132
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 9.09
+Percent similarity: 9.09
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 137
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 8.03
+Percent similarity: 8.03
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_559292_YEAST/33:
+  Alignment length: 142
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 7.75
+Percent similarity: 7.75
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_505711_ANDGO/35:
+  Alignment length: 86
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 18.60
+Percent similarity: 18.60
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 138
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 10.14
+Percent similarity: 10.14
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_5911_TETTH/3278:
+  Alignment length: 124
+Identical residues: 7
+  Similar residues: 0
+  Percent identity: 5.65
+Percent similarity: 5.65
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_352472_DICDI/36:
+  Alignment length: 157
+Identical residues: 8
+  Similar residues: 0
+  Percent identity: 5.10
+Percent similarity: 5.10
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_353151_CRYHT/32:
+  Alignment length: 127
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 8.66
+Percent similarity: 8.66
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_296543_THAPS/33:
+  Alignment length: 126
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 8.73
+Percent similarity: 8.73
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 96
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 15.63
+Percent similarity: 15.63
+
+Results for LSUa_186497_PYRFU/29 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 94
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 14.89
+Percent similarity: 14.89
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_1837170_THOR/:
+  Alignment length: 69
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 31.88
+Percent similarity: 31.88
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_2053491_THOR/:
+  Alignment length: 66
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 33.33
+Percent similarity: 33.33
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_2026747_HEIM/:
+  Alignment length: 120
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 15.00
+Percent similarity: 15.00
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_B18G1_HEIM/28:
+  Alignment length: 135
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 14.81
+Percent similarity: 14.81
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_B53-G9_LOKI/2:
+  Alignment length: 102
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 21.57
+Percent similarity: 21.57
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_MK-D1_LOKI/29:
+  Alignment length: 96
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 29.17
+Percent similarity: 29.17
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_NODE_1830/:
+  Alignment length: 228
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 10.53
+Percent similarity: 10.53
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_1538547_LOKI/:
+  Alignment length: 197
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 12.69
+Percent similarity: 12.69
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_NODE_1615/:
+  Alignment length: 200
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 12.50
+Percent similarity: 12.50
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_NODE_2003/:
+  Alignment length: 204
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 11.76
+Percent similarity: 11.76
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 169
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 13.02
+Percent similarity: 13.02
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 169
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 14.20
+Percent similarity: 14.20
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_b32_LOKI/3001:
+  Alignment length: 171
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 13.45
+Percent similarity: 13.45
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 201
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 11.44
+Percent similarity: 11.44
+
+Results for LSUASG_B40-G15_FREYA vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 194
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 11.86
+Percent similarity: 11.86
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_36329_PLAF7/369:
+  Alignment length: 146
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 10.27
+Percent similarity: 10.27
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_35144_PRYPA/306:
+  Alignment length: 86
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 23.26
+Percent similarity: 23.26
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_753081_BIGNC/31:
+  Alignment length: 109
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 15.60
+Percent similarity: 15.60
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_55529_GUITH/362:
+  Alignment length: 152
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 9.21
+Percent similarity: 9.21
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_554453_PLAMI/33:
+  Alignment length: 142
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 15.49
+Percent similarity: 15.49
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_238746_MICPO/32:
+  Alignment length: 131
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 15.27
+Percent similarity: 15.27
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_857967_ICHMG/34:
+  Alignment length: 122
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 9.02
+Percent similarity: 9.02
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_1928728_PAMIC/3:
+  Alignment length: 129
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 13.18
+Percent similarity: 13.18
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_2044563_ANTWI/3:
+  Alignment length: 133
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 11.28
+Percent similarity: 11.28
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_559292_YEAST/33:
+  Alignment length: 142
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 12.68
+Percent similarity: 12.68
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_505711_ANDGO/35:
+  Alignment length: 86
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 24.42
+Percent similarity: 24.42
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_3055_CHLRE/3114:
+  Alignment length: 138
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 10.14
+Percent similarity: 10.14
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_5911_TETTH/3278:
+  Alignment length: 121
+Identical residues: 9
+  Similar residues: 0
+  Percent identity: 7.44
+Percent similarity: 7.44
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_352472_DICDI/36:
+  Alignment length: 156
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 7.05
+Percent similarity: 7.05
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_353151_CRYHT/32:
+  Alignment length: 128
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 10.94
+Percent similarity: 10.94
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_296543_THAPS/33:
+  Alignment length: 127
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 9.45
+Percent similarity: 9.45
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_1333499_NAOCE/3:
+  Alignment length: 92
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 19.57
+Percent similarity: 19.57
+
+Results for LSUASG_B40-G15_FREYA vs LSUe_1315715_PIJUD/3:
+  Alignment length: 90
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 17.78
+Percent similarity: 17.78
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_2053491_THOR/:
+  Alignment length: 63
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 73.02
+Percent similarity: 73.02
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_2026747_HEIM/:
+  Alignment length: 139
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 7.91
+Percent similarity: 7.91
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_B18G1_HEIM/28:
+  Alignment length: 154
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 7.79
+Percent similarity: 7.79
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_B53-G9_LOKI/2:
+  Alignment length: 100
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 26.00
+Percent similarity: 26.00
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_MK-D1_LOKI/29:
+  Alignment length: 104
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 25.00
+Percent similarity: 25.00
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_NODE_1830/:
+  Alignment length: 230
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 12.17
+Percent similarity: 12.17
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_1538547_LOKI/:
+  Alignment length: 200
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 13.00
+Percent similarity: 13.00
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_NODE_1615/:
+  Alignment length: 203
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 12.81
+Percent similarity: 12.81
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_NODE_2003/:
+  Alignment length: 207
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 13.04
+Percent similarity: 13.04
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 172
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 15.70
+Percent similarity: 15.70
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 172
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 20.35
+Percent similarity: 20.35
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_b32_LOKI/3001:
+  Alignment length: 173
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 14.45
+Percent similarity: 14.45
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 203
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 11.33
+Percent similarity: 11.33
+
+Results for LSUASG_1837170_THOR/ vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 196
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 13.27
+Percent similarity: 13.27
+
+Results for LSUASG_1837170_THOR/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 163
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 11.04
+Percent similarity: 11.04
+
+Results for LSUASG_1837170_THOR/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 96
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 16.67
+Percent similarity: 16.67
+
+Results for LSUASG_1837170_THOR/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 126
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 10.32
+Percent similarity: 10.32
+
+Results for LSUASG_1837170_THOR/ vs LSUe_55529_GUITH/362:
+  Alignment length: 153
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 11.11
+Percent similarity: 11.11
+
+Results for LSUASG_1837170_THOR/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 158
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 10.13
+Percent similarity: 10.13
+
+Results for LSUASG_1837170_THOR/ vs LSUe_238746_MICPO/32:
+  Alignment length: 148
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 7.43
+Percent similarity: 7.43
+
+Results for LSUASG_1837170_THOR/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 138
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 11.59
+Percent similarity: 11.59
+
+Results for LSUASG_1837170_THOR/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 147
+Identical residues: 9
+  Similar residues: 0
+  Percent identity: 6.12
+Percent similarity: 6.12
+
+Results for LSUASG_1837170_THOR/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 150
+Identical residues: 7
+  Similar residues: 0
+  Percent identity: 4.67
+Percent similarity: 4.67
+
+Results for LSUASG_1837170_THOR/ vs LSUe_559292_YEAST/33:
+  Alignment length: 159
+Identical residues: 7
+  Similar residues: 0
+  Percent identity: 4.40
+Percent similarity: 4.40
+
+Results for LSUASG_1837170_THOR/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 103
+Identical residues: 9
+  Similar residues: 0
+  Percent identity: 8.74
+Percent similarity: 8.74
+
+Results for LSUASG_1837170_THOR/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 155
+Identical residues: 8
+  Similar residues: 0
+  Percent identity: 5.16
+Percent similarity: 5.16
+
+Results for LSUASG_1837170_THOR/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 137
+Identical residues: 8
+  Similar residues: 0
+  Percent identity: 5.84
+Percent similarity: 5.84
+
+Results for LSUASG_1837170_THOR/ vs LSUe_352472_DICDI/36:
+  Alignment length: 174
+Identical residues: 6
+  Similar residues: 0
+  Percent identity: 3.45
+Percent similarity: 3.45
+
+Results for LSUASG_1837170_THOR/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 144
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 6.94
+Percent similarity: 6.94
+
+Results for LSUASG_1837170_THOR/ vs LSUe_296543_THAPS/33:
+  Alignment length: 144
+Identical residues: 6
+  Similar residues: 0
+  Percent identity: 4.17
+Percent similarity: 4.17
+
+Results for LSUASG_1837170_THOR/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 107
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 10.28
+Percent similarity: 10.28
+
+Results for LSUASG_1837170_THOR/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 105
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 10.48
+Percent similarity: 10.48
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_2026747_HEIM/:
+  Alignment length: 134
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 8.21
+Percent similarity: 8.21
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_B18G1_HEIM/28:
+  Alignment length: 150
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 8.67
+Percent similarity: 8.67
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_B53-G9_LOKI/2:
+  Alignment length: 99
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 28.28
+Percent similarity: 28.28
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_MK-D1_LOKI/29:
+  Alignment length: 103
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 26.21
+Percent similarity: 26.21
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_NODE_1830/:
+  Alignment length: 230
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 9.13
+Percent similarity: 9.13
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_1538547_LOKI/:
+  Alignment length: 200
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 12.50
+Percent similarity: 12.50
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_NODE_1615/:
+  Alignment length: 203
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 12.32
+Percent similarity: 12.32
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_NODE_2003/:
+  Alignment length: 207
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 11.59
+Percent similarity: 11.59
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 172
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 12.79
+Percent similarity: 12.79
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 172
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 16.28
+Percent similarity: 16.28
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_b32_LOKI/3001:
+  Alignment length: 173
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 14.45
+Percent similarity: 14.45
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 203
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 10.34
+Percent similarity: 10.34
+
+Results for LSUASG_2053491_THOR/ vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 196
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 11.73
+Percent similarity: 11.73
+
+Results for LSUASG_2053491_THOR/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 160
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 11.88
+Percent similarity: 11.88
+
+Results for LSUASG_2053491_THOR/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 94
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 15.96
+Percent similarity: 15.96
+
+Results for LSUASG_2053491_THOR/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 124
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 10.48
+Percent similarity: 10.48
+
+Results for LSUASG_2053491_THOR/ vs LSUe_55529_GUITH/362:
+  Alignment length: 153
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 8.50
+Percent similarity: 8.50
+
+Results for LSUASG_2053491_THOR/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 154
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 9.74
+Percent similarity: 9.74
+
+Results for LSUASG_2053491_THOR/ vs LSUe_238746_MICPO/32:
+  Alignment length: 144
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 8.33
+Percent similarity: 8.33
+
+Results for LSUASG_2053491_THOR/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 134
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 11.94
+Percent similarity: 11.94
+
+Results for LSUASG_2053491_THOR/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 143
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 6.99
+Percent similarity: 6.99
+
+Results for LSUASG_2053491_THOR/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 146
+Identical residues: 6
+  Similar residues: 0
+  Percent identity: 4.11
+Percent similarity: 4.11
+
+Results for LSUASG_2053491_THOR/ vs LSUe_559292_YEAST/33:
+  Alignment length: 155
+Identical residues: 8
+  Similar residues: 0
+  Percent identity: 5.16
+Percent similarity: 5.16
+
+Results for LSUASG_2053491_THOR/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 100
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 10.00
+Percent similarity: 10.00
+
+Results for LSUASG_2053491_THOR/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 151
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 6.62
+Percent similarity: 6.62
+
+Results for LSUASG_2053491_THOR/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 133
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 7.52
+Percent similarity: 7.52
+
+Results for LSUASG_2053491_THOR/ vs LSUe_352472_DICDI/36:
+  Alignment length: 170
+Identical residues: 4
+  Similar residues: 0
+  Percent identity: 2.35
+Percent similarity: 2.35
+
+Results for LSUASG_2053491_THOR/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 142
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 7.75
+Percent similarity: 7.75
+
+Results for LSUASG_2053491_THOR/ vs LSUe_296543_THAPS/33:
+  Alignment length: 142
+Identical residues: 5
+  Similar residues: 0
+  Percent identity: 3.52
+Percent similarity: 3.52
+
+Results for LSUASG_2053491_THOR/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 105
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 10.48
+Percent similarity: 10.48
+
+Results for LSUASG_2053491_THOR/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 103
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 9.71
+Percent similarity: 9.71
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_B18G1_HEIM/28:
+  Alignment length: 135
+Identical residues: 52
+  Similar residues: 0
+  Percent identity: 38.52
+Percent similarity: 38.52
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_B53-G9_LOKI/2:
+  Alignment length: 155
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 14.19
+Percent similarity: 14.19
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_MK-D1_LOKI/29:
+  Alignment length: 148
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 19.59
+Percent similarity: 19.59
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_NODE_1830/:
+  Alignment length: 231
+Identical residues: 44
+  Similar residues: 0
+  Percent identity: 19.05
+Percent similarity: 19.05
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_1538547_LOKI/:
+  Alignment length: 197
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 21.83
+Percent similarity: 21.83
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_NODE_1615/:
+  Alignment length: 200
+Identical residues: 42
+  Similar residues: 0
+  Percent identity: 21.00
+Percent similarity: 21.00
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_NODE_2003/:
+  Alignment length: 208
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 21.63
+Percent similarity: 21.63
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 171
+Identical residues: 48
+  Similar residues: 0
+  Percent identity: 28.07
+Percent similarity: 28.07
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 171
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 22.81
+Percent similarity: 22.81
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_b32_LOKI/3001:
+  Alignment length: 174
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 24.71
+Percent similarity: 24.71
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 204
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 15.69
+Percent similarity: 15.69
+
+Results for LSUASG_2026747_HEIM/ vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 197
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 17.77
+Percent similarity: 17.77
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 185
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 14.59
+Percent similarity: 14.59
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 148
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 10.14
+Percent similarity: 10.14
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 144
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 11.81
+Percent similarity: 11.81
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_55529_GUITH/362:
+  Alignment length: 178
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 11.80
+Percent similarity: 11.80
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 173
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 14.45
+Percent similarity: 14.45
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_238746_MICPO/32:
+  Alignment length: 165
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 15.15
+Percent similarity: 15.15
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 174
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 10.34
+Percent similarity: 10.34
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 158
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 13.92
+Percent similarity: 13.92
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 170
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 13.53
+Percent similarity: 13.53
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_559292_YEAST/33:
+  Alignment length: 171
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 15.20
+Percent similarity: 15.20
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 129
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 14.73
+Percent similarity: 14.73
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 170
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 12.35
+Percent similarity: 12.35
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 168
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 14.29
+Percent similarity: 14.29
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_352472_DICDI/36:
+  Alignment length: 186
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 11.29
+Percent similarity: 11.29
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 166
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 19.88
+Percent similarity: 19.88
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_296543_THAPS/33:
+  Alignment length: 164
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 16.46
+Percent similarity: 16.46
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 142
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 17.61
+Percent similarity: 17.61
+
+Results for LSUASG_2026747_HEIM/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 140
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 15.00
+Percent similarity: 15.00
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_B53-G9_LOKI/2:
+  Alignment length: 171
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 9.36
+Percent similarity: 9.36
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_MK-D1_LOKI/29:
+  Alignment length: 164
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 10.98
+Percent similarity: 10.98
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_NODE_1830/:
+  Alignment length: 231
+Identical residues: 49
+  Similar residues: 0
+  Percent identity: 21.21
+Percent similarity: 21.21
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_1538547_LOKI/:
+  Alignment length: 201
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 19.90
+Percent similarity: 19.90
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_NODE_1615/:
+  Alignment length: 204
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 22.55
+Percent similarity: 22.55
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_NODE_2003/:
+  Alignment length: 208
+Identical residues: 47
+  Similar residues: 0
+  Percent identity: 22.60
+Percent similarity: 22.60
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 175
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 25.71
+Percent similarity: 25.71
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 172
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 22.67
+Percent similarity: 22.67
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_b32_LOKI/3001:
+  Alignment length: 174
+Identical residues: 49
+  Similar residues: 0
+  Percent identity: 28.16
+Percent similarity: 28.16
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 202
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 19.31
+Percent similarity: 19.31
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 197
+Identical residues: 44
+  Similar residues: 0
+  Percent identity: 22.34
+Percent similarity: 22.34
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_36329_PLAF7/369:
+  Alignment length: 188
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 15.43
+Percent similarity: 15.43
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_35144_PRYPA/306:
+  Alignment length: 149
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 16.11
+Percent similarity: 16.11
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_753081_BIGNC/31:
+  Alignment length: 146
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 17.81
+Percent similarity: 17.81
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_55529_GUITH/362:
+  Alignment length: 182
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 18.68
+Percent similarity: 18.68
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_554453_PLAMI/33:
+  Alignment length: 177
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 10.73
+Percent similarity: 10.73
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_238746_MICPO/32:
+  Alignment length: 167
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 19.16
+Percent similarity: 19.16
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_857967_ICHMG/34:
+  Alignment length: 176
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 14.20
+Percent similarity: 14.20
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 160
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 17.50
+Percent similarity: 17.50
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 172
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 12.21
+Percent similarity: 12.21
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_559292_YEAST/33:
+  Alignment length: 174
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 16.09
+Percent similarity: 16.09
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_505711_ANDGO/35:
+  Alignment length: 146
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 15.75
+Percent similarity: 15.75
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 174
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 16.09
+Percent similarity: 16.09
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_5911_TETTH/3278:
+  Alignment length: 170
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 12.94
+Percent similarity: 12.94
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_352472_DICDI/36:
+  Alignment length: 189
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 14.29
+Percent similarity: 14.29
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_353151_CRYHT/32:
+  Alignment length: 170
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 19.41
+Percent similarity: 19.41
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_296543_THAPS/33:
+  Alignment length: 168
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 17.26
+Percent similarity: 17.26
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 159
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 11.32
+Percent similarity: 11.32
+
+Results for LSUASG_B18G1_HEIM/28 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 157
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 10.19
+Percent similarity: 10.19
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_MK-D1_LOKI/29:
+  Alignment length: 102
+Identical residues: 59
+  Similar residues: 0
+  Percent identity: 57.84
+Percent similarity: 57.84
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_NODE_1830/:
+  Alignment length: 227
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 19.82
+Percent similarity: 19.82
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_1538547_LOKI/:
+  Alignment length: 196
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 23.47
+Percent similarity: 23.47
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_NODE_1615/:
+  Alignment length: 199
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 22.61
+Percent similarity: 22.61
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_NODE_2003/:
+  Alignment length: 204
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 19.12
+Percent similarity: 19.12
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 179
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 17.32
+Percent similarity: 17.32
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 179
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 19.55
+Percent similarity: 19.55
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_b32_LOKI/3001:
+  Alignment length: 181
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 20.44
+Percent similarity: 20.44
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 201
+Identical residues: 42
+  Similar residues: 0
+  Percent identity: 20.90
+Percent similarity: 20.90
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 203
+Identical residues: 38
+  Similar residues: 0
+  Percent identity: 18.72
+Percent similarity: 18.72
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_36329_PLAF7/369:
+  Alignment length: 197
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 6.60
+Percent similarity: 6.60
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_35144_PRYPA/306:
+  Alignment length: 123
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 13.01
+Percent similarity: 13.01
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_753081_BIGNC/31:
+  Alignment length: 153
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 7.84
+Percent similarity: 7.84
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_55529_GUITH/362:
+  Alignment length: 175
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 9.14
+Percent similarity: 9.14
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_554453_PLAMI/33:
+  Alignment length: 186
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 9.14
+Percent similarity: 9.14
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_238746_MICPO/32:
+  Alignment length: 176
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 6.25
+Percent similarity: 6.25
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_857967_ICHMG/34:
+  Alignment length: 166
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 8.43
+Percent similarity: 8.43
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 170
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 7.06
+Percent similarity: 7.06
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 179
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 6.70
+Percent similarity: 6.70
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_559292_YEAST/33:
+  Alignment length: 184
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 5.98
+Percent similarity: 5.98
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_505711_ANDGO/35:
+  Alignment length: 136
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 8.09
+Percent similarity: 8.09
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 183
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 7.10
+Percent similarity: 7.10
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_5911_TETTH/3278:
+  Alignment length: 169
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 5.92
+Percent similarity: 5.92
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_352472_DICDI/36:
+  Alignment length: 199
+Identical residues: 9
+  Similar residues: 0
+  Percent identity: 4.52
+Percent similarity: 4.52
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_353151_CRYHT/32:
+  Alignment length: 179
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 7.82
+Percent similarity: 7.82
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_296543_THAPS/33:
+  Alignment length: 179
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 6.70
+Percent similarity: 6.70
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 142
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 11.27
+Percent similarity: 11.27
+
+Results for LSUASG_B53-G9_LOKI/2 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 140
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 8.57
+Percent similarity: 8.57
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_NODE_1830/:
+  Alignment length: 227
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 19.82
+Percent similarity: 19.82
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_1538547_LOKI/:
+  Alignment length: 196
+Identical residues: 47
+  Similar residues: 0
+  Percent identity: 23.98
+Percent similarity: 23.98
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_NODE_1615/:
+  Alignment length: 199
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 23.12
+Percent similarity: 23.12
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_NODE_2003/:
+  Alignment length: 203
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 22.66
+Percent similarity: 22.66
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 178
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 23.03
+Percent similarity: 23.03
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 178
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 22.47
+Percent similarity: 22.47
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_b32_LOKI/3001:
+  Alignment length: 180
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 25.00
+Percent similarity: 25.00
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 200
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 20.50
+Percent similarity: 20.50
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 202
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 20.30
+Percent similarity: 20.30
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_36329_PLAF7/369:
+  Alignment length: 189
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 8.99
+Percent similarity: 8.99
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_35144_PRYPA/306:
+  Alignment length: 122
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 15.57
+Percent similarity: 15.57
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_753081_BIGNC/31:
+  Alignment length: 145
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 13.10
+Percent similarity: 13.10
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_55529_GUITH/362:
+  Alignment length: 171
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 11.11
+Percent similarity: 11.11
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_554453_PLAMI/33:
+  Alignment length: 178
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 10.67
+Percent similarity: 10.67
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_238746_MICPO/32:
+  Alignment length: 168
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 9.52
+Percent similarity: 9.52
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_857967_ICHMG/34:
+  Alignment length: 160
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 8.75
+Percent similarity: 8.75
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 162
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 10.49
+Percent similarity: 10.49
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 171
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 8.77
+Percent similarity: 8.77
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_559292_YEAST/33:
+  Alignment length: 176
+Identical residues: 13
+  Similar residues: 0
+  Percent identity: 7.39
+Percent similarity: 7.39
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_505711_ANDGO/35:
+  Alignment length: 128
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 10.94
+Percent similarity: 10.94
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 175
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 8.00
+Percent similarity: 8.00
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_5911_TETTH/3278:
+  Alignment length: 161
+Identical residues: 10
+  Similar residues: 0
+  Percent identity: 6.21
+Percent similarity: 6.21
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_352472_DICDI/36:
+  Alignment length: 191
+Identical residues: 11
+  Similar residues: 0
+  Percent identity: 5.76
+Percent similarity: 5.76
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_353151_CRYHT/32:
+  Alignment length: 171
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 9.94
+Percent similarity: 9.94
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_296543_THAPS/33:
+  Alignment length: 171
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 8.19
+Percent similarity: 8.19
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 134
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 13.43
+Percent similarity: 13.43
+
+Results for LSUASG_MK-D1_LOKI/29 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 132
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 10.61
+Percent similarity: 10.61
+
+Results for LSUASG_NODE_1830/ vs LSUASG_1538547_LOKI/:
+  Alignment length: 232
+Identical residues: 104
+  Similar residues: 0
+  Percent identity: 44.83
+Percent similarity: 44.83
+
+Results for LSUASG_NODE_1830/ vs LSUASG_NODE_1615/:
+  Alignment length: 232
+Identical residues: 108
+  Similar residues: 0
+  Percent identity: 46.55
+Percent similarity: 46.55
+
+Results for LSUASG_NODE_1830/ vs LSUASG_NODE_2003/:
+  Alignment length: 233
+Identical residues: 115
+  Similar residues: 0
+  Percent identity: 49.36
+Percent similarity: 49.36
+
+Results for LSUASG_NODE_1830/ vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 232
+Identical residues: 90
+  Similar residues: 0
+  Percent identity: 38.79
+Percent similarity: 38.79
+
+Results for LSUASG_NODE_1830/ vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 229
+Identical residues: 95
+  Similar residues: 0
+  Percent identity: 41.48
+Percent similarity: 41.48
+
+Results for LSUASG_NODE_1830/ vs LSUASG_b32_LOKI/3001:
+  Alignment length: 230
+Identical residues: 97
+  Similar residues: 0
+  Percent identity: 42.17
+Percent similarity: 42.17
+
+Results for LSUASG_NODE_1830/ vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 233
+Identical residues: 100
+  Similar residues: 0
+  Percent identity: 42.92
+Percent similarity: 42.92
+
+Results for LSUASG_NODE_1830/ vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 228
+Identical residues: 113
+  Similar residues: 0
+  Percent identity: 49.56
+Percent similarity: 49.56
+
+Results for LSUASG_NODE_1830/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 265
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 16.98
+Percent similarity: 16.98
+
+Results for LSUASG_NODE_1830/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 238
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 11.34
+Percent similarity: 11.34
+
+Results for LSUASG_NODE_1830/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 239
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 11.72
+Percent similarity: 11.72
+
+Results for LSUASG_NODE_1830/ vs LSUe_55529_GUITH/362:
+  Alignment length: 254
+Identical residues: 49
+  Similar residues: 0
+  Percent identity: 19.29
+Percent similarity: 19.29
+
+Results for LSUASG_NODE_1830/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 267
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 11.61
+Percent similarity: 11.61
+
+Results for LSUASG_NODE_1830/ vs LSUe_238746_MICPO/32:
+  Alignment length: 262
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 11.07
+Percent similarity: 11.07
+
+Results for LSUASG_NODE_1830/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 267
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 11.24
+Percent similarity: 11.24
+
+Results for LSUASG_NODE_1830/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 256
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 12.11
+Percent similarity: 12.11
+
+Results for LSUASG_NODE_1830/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 267
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 10.86
+Percent similarity: 10.86
+
+Results for LSUASG_NODE_1830/ vs LSUe_559292_YEAST/33:
+  Alignment length: 265
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 12.08
+Percent similarity: 12.08
+
+Results for LSUASG_NODE_1830/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 235
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 10.21
+Percent similarity: 10.21
+
+Results for LSUASG_NODE_1830/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 266
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 8.65
+Percent similarity: 8.65
+
+Results for LSUASG_NODE_1830/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 263
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 9.89
+Percent similarity: 9.89
+
+Results for LSUASG_NODE_1830/ vs LSUe_352472_DICDI/36:
+  Alignment length: 280
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 10.36
+Percent similarity: 10.36
+
+Results for LSUASG_NODE_1830/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 263
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 12.93
+Percent similarity: 12.93
+
+Results for LSUASG_NODE_1830/ vs LSUe_296543_THAPS/33:
+  Alignment length: 260
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 10.77
+Percent similarity: 10.77
+
+Results for LSUASG_NODE_1830/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 253
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 9.88
+Percent similarity: 9.88
+
+Results for LSUASG_NODE_1830/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 251
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 7.17
+Percent similarity: 7.17
+
+Results for LSUASG_1538547_LOKI/ vs LSUASG_NODE_1615/:
+  Alignment length: 199
+Identical residues: 162
+  Similar residues: 0
+  Percent identity: 81.41
+Percent similarity: 81.41
+
+Results for LSUASG_1538547_LOKI/ vs LSUASG_NODE_2003/:
+  Alignment length: 207
+Identical residues: 108
+  Similar residues: 0
+  Percent identity: 52.17
+Percent similarity: 52.17
+
+Results for LSUASG_1538547_LOKI/ vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 198
+Identical residues: 93
+  Similar residues: 0
+  Percent identity: 46.97
+Percent similarity: 46.97
+
+Results for LSUASG_1538547_LOKI/ vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 199
+Identical residues: 87
+  Similar residues: 0
+  Percent identity: 43.72
+Percent similarity: 43.72
+
+Results for LSUASG_1538547_LOKI/ vs LSUASG_b32_LOKI/3001:
+  Alignment length: 201
+Identical residues: 100
+  Similar residues: 0
+  Percent identity: 49.75
+Percent similarity: 49.75
+
+Results for LSUASG_1538547_LOKI/ vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 207
+Identical residues: 98
+  Similar residues: 0
+  Percent identity: 47.34
+Percent similarity: 47.34
+
+Results for LSUASG_1538547_LOKI/ vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 221
+Identical residues: 104
+  Similar residues: 0
+  Percent identity: 47.06
+Percent similarity: 47.06
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 245
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 17.55
+Percent similarity: 17.55
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 206
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 11.65
+Percent similarity: 11.65
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 206
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 15.53
+Percent similarity: 15.53
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_55529_GUITH/362:
+  Alignment length: 222
+Identical residues: 49
+  Similar residues: 0
+  Percent identity: 22.07
+Percent similarity: 22.07
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 234
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 14.10
+Percent similarity: 14.10
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_238746_MICPO/32:
+  Alignment length: 230
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 12.17
+Percent similarity: 12.17
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 235
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 11.06
+Percent similarity: 11.06
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 224
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 16.52
+Percent similarity: 16.52
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 235
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 13.19
+Percent similarity: 13.19
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_559292_YEAST/33:
+  Alignment length: 232
+Identical residues: 36
+  Similar residues: 0
+  Percent identity: 15.52
+Percent similarity: 15.52
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 202
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 12.87
+Percent similarity: 12.87
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 233
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 12.45
+Percent similarity: 12.45
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 230
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 11.74
+Percent similarity: 11.74
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_352472_DICDI/36:
+  Alignment length: 247
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 11.34
+Percent similarity: 11.34
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 231
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 13.85
+Percent similarity: 13.85
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_296543_THAPS/33:
+  Alignment length: 227
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 12.33
+Percent similarity: 12.33
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 220
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 13.18
+Percent similarity: 13.18
+
+Results for LSUASG_1538547_LOKI/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 218
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 11.01
+Percent similarity: 11.01
+
+Results for LSUASG_NODE_1615/ vs LSUASG_NODE_2003/:
+  Alignment length: 207
+Identical residues: 122
+  Similar residues: 0
+  Percent identity: 58.94
+Percent similarity: 58.94
+
+Results for LSUASG_NODE_1615/ vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 201
+Identical residues: 96
+  Similar residues: 0
+  Percent identity: 47.76
+Percent similarity: 47.76
+
+Results for LSUASG_NODE_1615/ vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 202
+Identical residues: 92
+  Similar residues: 0
+  Percent identity: 45.54
+Percent similarity: 45.54
+
+Results for LSUASG_NODE_1615/ vs LSUASG_b32_LOKI/3001:
+  Alignment length: 204
+Identical residues: 101
+  Similar residues: 0
+  Percent identity: 49.51
+Percent similarity: 49.51
+
+Results for LSUASG_NODE_1615/ vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 208
+Identical residues: 101
+  Similar residues: 0
+  Percent identity: 48.56
+Percent similarity: 48.56
+
+Results for LSUASG_NODE_1615/ vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 222
+Identical residues: 109
+  Similar residues: 0
+  Percent identity: 49.10
+Percent similarity: 49.10
+
+Results for LSUASG_NODE_1615/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 248
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 16.53
+Percent similarity: 16.53
+
+Results for LSUASG_NODE_1615/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 209
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 12.92
+Percent similarity: 12.92
+
+Results for LSUASG_NODE_1615/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 209
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 15.79
+Percent similarity: 15.79
+
+Results for LSUASG_NODE_1615/ vs LSUe_55529_GUITH/362:
+  Alignment length: 225
+Identical residues: 52
+  Similar residues: 0
+  Percent identity: 23.11
+Percent similarity: 23.11
+
+Results for LSUASG_NODE_1615/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 237
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 12.66
+Percent similarity: 12.66
+
+Results for LSUASG_NODE_1615/ vs LSUe_238746_MICPO/32:
+  Alignment length: 233
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 11.16
+Percent similarity: 11.16
+
+Results for LSUASG_NODE_1615/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 238
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 9.66
+Percent similarity: 9.66
+
+Results for LSUASG_NODE_1615/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 227
+Identical residues: 36
+  Similar residues: 0
+  Percent identity: 15.86
+Percent similarity: 15.86
+
+Results for LSUASG_NODE_1615/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 238
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 10.50
+Percent similarity: 10.50
+
+Results for LSUASG_NODE_1615/ vs LSUe_559292_YEAST/33:
+  Alignment length: 235
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 13.19
+Percent similarity: 13.19
+
+Results for LSUASG_NODE_1615/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 205
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 12.20
+Percent similarity: 12.20
+
+Results for LSUASG_NODE_1615/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 236
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 11.44
+Percent similarity: 11.44
+
+Results for LSUASG_NODE_1615/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 233
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 10.73
+Percent similarity: 10.73
+
+Results for LSUASG_NODE_1615/ vs LSUe_352472_DICDI/36:
+  Alignment length: 250
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 10.00
+Percent similarity: 10.00
+
+Results for LSUASG_NODE_1615/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 234
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 13.25
+Percent similarity: 13.25
+
+Results for LSUASG_NODE_1615/ vs LSUe_296543_THAPS/33:
+  Alignment length: 230
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 12.17
+Percent similarity: 12.17
+
+Results for LSUASG_NODE_1615/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 223
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 12.11
+Percent similarity: 12.11
+
+Results for LSUASG_NODE_1615/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 221
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 9.05
+Percent similarity: 9.05
+
+Results for LSUASG_NODE_2003/ vs LSUASG_TEKIR-5S_LOKI/:
+  Alignment length: 205
+Identical residues: 92
+  Similar residues: 0
+  Percent identity: 44.88
+Percent similarity: 44.88
+
+Results for LSUASG_NODE_2003/ vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 205
+Identical residues: 103
+  Similar residues: 0
+  Percent identity: 50.24
+Percent similarity: 50.24
+
+Results for LSUASG_NODE_2003/ vs LSUASG_b32_LOKI/3001:
+  Alignment length: 205
+Identical residues: 92
+  Similar residues: 0
+  Percent identity: 44.88
+Percent similarity: 44.88
+
+Results for LSUASG_NODE_2003/ vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 209
+Identical residues: 91
+  Similar residues: 0
+  Percent identity: 43.54
+Percent similarity: 43.54
+
+Results for LSUASG_NODE_2003/ vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 224
+Identical residues: 100
+  Similar residues: 0
+  Percent identity: 44.64
+Percent similarity: 44.64
+
+Results for LSUASG_NODE_2003/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 252
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 16.27
+Percent similarity: 16.27
+
+Results for LSUASG_NODE_2003/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 213
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 13.62
+Percent similarity: 13.62
+
+Results for LSUASG_NODE_2003/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 212
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 18.40
+Percent similarity: 18.40
+
+Results for LSUASG_NODE_2003/ vs LSUe_55529_GUITH/362:
+  Alignment length: 229
+Identical residues: 42
+  Similar residues: 0
+  Percent identity: 18.34
+Percent similarity: 18.34
+
+Results for LSUASG_NODE_2003/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 241
+Identical residues: 38
+  Similar residues: 0
+  Percent identity: 15.77
+Percent similarity: 15.77
+
+Results for LSUASG_NODE_2003/ vs LSUe_238746_MICPO/32:
+  Alignment length: 238
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 13.03
+Percent similarity: 13.03
+
+Results for LSUASG_NODE_2003/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 243
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 10.29
+Percent similarity: 10.29
+
+Results for LSUASG_NODE_2003/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 232
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 14.66
+Percent similarity: 14.66
+
+Results for LSUASG_NODE_2003/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 243
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 12.35
+Percent similarity: 12.35
+
+Results for LSUASG_NODE_2003/ vs LSUe_559292_YEAST/33:
+  Alignment length: 240
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 13.33
+Percent similarity: 13.33
+
+Results for LSUASG_NODE_2003/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 210
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 11.43
+Percent similarity: 11.43
+
+Results for LSUASG_NODE_2003/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 241
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 10.79
+Percent similarity: 10.79
+
+Results for LSUASG_NODE_2003/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 238
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 11.34
+Percent similarity: 11.34
+
+Results for LSUASG_NODE_2003/ vs LSUe_352472_DICDI/36:
+  Alignment length: 254
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 11.81
+Percent similarity: 11.81
+
+Results for LSUASG_NODE_2003/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 239
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 14.23
+Percent similarity: 14.23
+
+Results for LSUASG_NODE_2003/ vs LSUe_296543_THAPS/33:
+  Alignment length: 234
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 12.82
+Percent similarity: 12.82
+
+Results for LSUASG_NODE_2003/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 229
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 11.35
+Percent similarity: 11.35
+
+Results for LSUASG_NODE_2003/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 227
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 9.69
+Percent similarity: 9.69
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUASG_AMARA-1S_LOKI/:
+  Alignment length: 171
+Identical residues: 88
+  Similar residues: 0
+  Percent identity: 51.46
+Percent similarity: 51.46
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUASG_b32_LOKI/3001:
+  Alignment length: 173
+Identical residues: 90
+  Similar residues: 0
+  Percent identity: 52.02
+Percent similarity: 52.02
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 206
+Identical residues: 77
+  Similar residues: 0
+  Percent identity: 37.38
+Percent similarity: 37.38
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 197
+Identical residues: 95
+  Similar residues: 0
+  Percent identity: 48.22
+Percent similarity: 48.22
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_36329_PLAF7/369:
+  Alignment length: 219
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 19.63
+Percent similarity: 19.63
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_35144_PRYPA/306:
+  Alignment length: 179
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 11.17
+Percent similarity: 11.17
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_753081_BIGNC/31:
+  Alignment length: 179
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 18.44
+Percent similarity: 18.44
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_55529_GUITH/362:
+  Alignment length: 196
+Identical residues: 49
+  Similar residues: 0
+  Percent identity: 25.00
+Percent similarity: 25.00
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_554453_PLAMI/33:
+  Alignment length: 208
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 15.38
+Percent similarity: 15.38
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_238746_MICPO/32:
+  Alignment length: 203
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 14.29
+Percent similarity: 14.29
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_857967_ICHMG/34:
+  Alignment length: 209
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 12.44
+Percent similarity: 12.44
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_1928728_PAMIC/3:
+  Alignment length: 197
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 17.77
+Percent similarity: 17.77
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_2044563_ANTWI/3:
+  Alignment length: 208
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 14.90
+Percent similarity: 14.90
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_559292_YEAST/33:
+  Alignment length: 206
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 14.56
+Percent similarity: 14.56
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_505711_ANDGO/35:
+  Alignment length: 176
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 13.07
+Percent similarity: 13.07
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_3055_CHLRE/3114:
+  Alignment length: 207
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 8.21
+Percent similarity: 8.21
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_5911_TETTH/3278:
+  Alignment length: 204
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 15.69
+Percent similarity: 15.69
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_352472_DICDI/36:
+  Alignment length: 221
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 11.76
+Percent similarity: 11.76
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_353151_CRYHT/32:
+  Alignment length: 204
+Identical residues: 38
+  Similar residues: 0
+  Percent identity: 18.63
+Percent similarity: 18.63
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_296543_THAPS/33:
+  Alignment length: 201
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 15.42
+Percent similarity: 15.42
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_1333499_NAOCE/3:
+  Alignment length: 193
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 14.51
+Percent similarity: 14.51
+
+Results for LSUASG_TEKIR-5S_LOKI vs LSUe_1315715_PIJUD/3:
+  Alignment length: 191
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 11.52
+Percent similarity: 11.52
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUASG_b32_LOKI/3001:
+  Alignment length: 171
+Identical residues: 85
+  Similar residues: 0
+  Percent identity: 49.71
+Percent similarity: 49.71
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 203
+Identical residues: 75
+  Similar residues: 0
+  Percent identity: 36.95
+Percent similarity: 36.95
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 194
+Identical residues: 98
+  Similar residues: 0
+  Percent identity: 50.52
+Percent similarity: 50.52
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_36329_PLAF7/369:
+  Alignment length: 217
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 17.05
+Percent similarity: 17.05
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_35144_PRYPA/306:
+  Alignment length: 179
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 12.85
+Percent similarity: 12.85
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_753081_BIGNC/31:
+  Alignment length: 179
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 21.79
+Percent similarity: 21.79
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_55529_GUITH/362:
+  Alignment length: 194
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 18.04
+Percent similarity: 18.04
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_554453_PLAMI/33:
+  Alignment length: 206
+Identical residues: 42
+  Similar residues: 0
+  Percent identity: 20.39
+Percent similarity: 20.39
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_238746_MICPO/32:
+  Alignment length: 201
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 16.92
+Percent similarity: 16.92
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_857967_ICHMG/34:
+  Alignment length: 207
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 11.59
+Percent similarity: 11.59
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_1928728_PAMIC/3:
+  Alignment length: 195
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 18.97
+Percent similarity: 18.97
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_2044563_ANTWI/3:
+  Alignment length: 206
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 16.99
+Percent similarity: 16.99
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_559292_YEAST/33:
+  Alignment length: 204
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 15.20
+Percent similarity: 15.20
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_505711_ANDGO/35:
+  Alignment length: 174
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 13.79
+Percent similarity: 13.79
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_3055_CHLRE/3114:
+  Alignment length: 205
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 10.73
+Percent similarity: 10.73
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_5911_TETTH/3278:
+  Alignment length: 202
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 10.89
+Percent similarity: 10.89
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_352472_DICDI/36:
+  Alignment length: 219
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 11.42
+Percent similarity: 11.42
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_353151_CRYHT/32:
+  Alignment length: 202
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 16.83
+Percent similarity: 16.83
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_296543_THAPS/33:
+  Alignment length: 199
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 13.57
+Percent similarity: 13.57
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_1333499_NAOCE/3:
+  Alignment length: 192
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 13.02
+Percent similarity: 13.02
+
+Results for LSUASG_AMARA-1S_LOKI vs LSUe_1315715_PIJUD/3:
+  Alignment length: 190
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 10.53
+Percent similarity: 10.53
+
+Results for LSUASG_b32_LOKI/3001 vs LSUASG_BC1_LOKI/1608:
+  Alignment length: 204
+Identical residues: 93
+  Similar residues: 0
+  Percent identity: 45.59
+Percent similarity: 45.59
+
+Results for LSUASG_b32_LOKI/3001 vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 195
+Identical residues: 100
+  Similar residues: 0
+  Percent identity: 51.28
+Percent similarity: 51.28
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_36329_PLAF7/369:
+  Alignment length: 219
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 16.89
+Percent similarity: 16.89
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_35144_PRYPA/306:
+  Alignment length: 180
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 12.78
+Percent similarity: 12.78
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_753081_BIGNC/31:
+  Alignment length: 180
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 17.22
+Percent similarity: 17.22
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_55529_GUITH/362:
+  Alignment length: 195
+Identical residues: 52
+  Similar residues: 0
+  Percent identity: 26.67
+Percent similarity: 26.67
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_554453_PLAMI/33:
+  Alignment length: 208
+Identical residues: 36
+  Similar residues: 0
+  Percent identity: 17.31
+Percent similarity: 17.31
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_238746_MICPO/32:
+  Alignment length: 204
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 15.20
+Percent similarity: 15.20
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_857967_ICHMG/34:
+  Alignment length: 209
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 11.96
+Percent similarity: 11.96
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 198
+Identical residues: 36
+  Similar residues: 0
+  Percent identity: 18.18
+Percent similarity: 18.18
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 209
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 16.75
+Percent similarity: 16.75
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_559292_YEAST/33:
+  Alignment length: 206
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 19.90
+Percent similarity: 19.90
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_505711_ANDGO/35:
+  Alignment length: 176
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 15.91
+Percent similarity: 15.91
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 207
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 12.56
+Percent similarity: 12.56
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_5911_TETTH/3278:
+  Alignment length: 204
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 11.27
+Percent similarity: 11.27
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_352472_DICDI/36:
+  Alignment length: 221
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 14.03
+Percent similarity: 14.03
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_353151_CRYHT/32:
+  Alignment length: 205
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 16.10
+Percent similarity: 16.10
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_296543_THAPS/33:
+  Alignment length: 201
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 14.43
+Percent similarity: 14.43
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 195
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 12.31
+Percent similarity: 12.31
+
+Results for LSUASG_b32_LOKI/3001 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 193
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 11.92
+Percent similarity: 11.92
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUASG_F3H4_B5_LOKI/:
+  Alignment length: 221
+Identical residues: 86
+  Similar residues: 0
+  Percent identity: 38.91
+Percent similarity: 38.91
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_36329_PLAF7/369:
+  Alignment length: 250
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 16.40
+Percent similarity: 16.40
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_35144_PRYPA/306:
+  Alignment length: 212
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 12.26
+Percent similarity: 12.26
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_753081_BIGNC/31:
+  Alignment length: 212
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 15.09
+Percent similarity: 15.09
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_55529_GUITH/362:
+  Alignment length: 226
+Identical residues: 52
+  Similar residues: 0
+  Percent identity: 23.01
+Percent similarity: 23.01
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_554453_PLAMI/33:
+  Alignment length: 240
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 16.67
+Percent similarity: 16.67
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_238746_MICPO/32:
+  Alignment length: 234
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 13.25
+Percent similarity: 13.25
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_857967_ICHMG/34:
+  Alignment length: 242
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 10.74
+Percent similarity: 10.74
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 227
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 16.30
+Percent similarity: 16.30
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 239
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 13.39
+Percent similarity: 13.39
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_559292_YEAST/33:
+  Alignment length: 239
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 15.48
+Percent similarity: 15.48
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_505711_ANDGO/35:
+  Alignment length: 209
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 11.00
+Percent similarity: 11.00
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 240
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 11.25
+Percent similarity: 11.25
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_5911_TETTH/3278:
+  Alignment length: 237
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 9.28
+Percent similarity: 9.28
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_352472_DICDI/36:
+  Alignment length: 252
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 9.92
+Percent similarity: 9.92
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_353151_CRYHT/32:
+  Alignment length: 235
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 16.60
+Percent similarity: 16.60
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_296543_THAPS/33:
+  Alignment length: 233
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 9.44
+Percent similarity: 9.44
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 225
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 11.11
+Percent similarity: 11.11
+
+Results for LSUASG_BC1_LOKI/1608 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 223
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 8.97
+Percent similarity: 8.97
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_36329_PLAF7/369:
+  Alignment length: 233
+Identical residues: 48
+  Similar residues: 0
+  Percent identity: 20.60
+Percent similarity: 20.60
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_35144_PRYPA/306:
+  Alignment length: 204
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 11.76
+Percent similarity: 11.76
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_753081_BIGNC/31:
+  Alignment length: 204
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 15.20
+Percent similarity: 15.20
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_55529_GUITH/362:
+  Alignment length: 219
+Identical residues: 42
+  Similar residues: 0
+  Percent identity: 19.18
+Percent similarity: 19.18
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_554453_PLAMI/33:
+  Alignment length: 232
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 14.22
+Percent similarity: 14.22
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_238746_MICPO/32:
+  Alignment length: 227
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 12.78
+Percent similarity: 12.78
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_857967_ICHMG/34:
+  Alignment length: 233
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 12.02
+Percent similarity: 12.02
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_1928728_PAMIC/3:
+  Alignment length: 221
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 16.74
+Percent similarity: 16.74
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_2044563_ANTWI/3:
+  Alignment length: 232
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 12.50
+Percent similarity: 12.50
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_559292_YEAST/33:
+  Alignment length: 230
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 11.30
+Percent similarity: 11.30
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_505711_ANDGO/35:
+  Alignment length: 200
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 14.00
+Percent similarity: 14.00
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_3055_CHLRE/3114:
+  Alignment length: 231
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 9.96
+Percent similarity: 9.96
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_5911_TETTH/3278:
+  Alignment length: 228
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 10.96
+Percent similarity: 10.96
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_352472_DICDI/36:
+  Alignment length: 245
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 13.06
+Percent similarity: 13.06
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_353151_CRYHT/32:
+  Alignment length: 228
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 13.16
+Percent similarity: 13.16
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_296543_THAPS/33:
+  Alignment length: 225
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 12.44
+Percent similarity: 12.44
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_1333499_NAOCE/3:
+  Alignment length: 218
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 9.63
+Percent similarity: 9.63
+
+Results for LSUASG_F3H4_B5_LOKI/ vs LSUe_1315715_PIJUD/3:
+  Alignment length: 216
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 11.57
+Percent similarity: 11.57
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_35144_PRYPA/306:
+  Alignment length: 155
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 16.13
+Percent similarity: 16.13
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_753081_BIGNC/31:
+  Alignment length: 155
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 16.77
+Percent similarity: 16.77
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_55529_GUITH/362:
+  Alignment length: 179
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 20.67
+Percent similarity: 20.67
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_554453_PLAMI/33:
+  Alignment length: 171
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 23.39
+Percent similarity: 23.39
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_238746_MICPO/32:
+  Alignment length: 167
+Identical residues: 38
+  Similar residues: 0
+  Percent identity: 22.75
+Percent similarity: 22.75
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_857967_ICHMG/34:
+  Alignment length: 168
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 16.07
+Percent similarity: 16.07
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 165
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 19.39
+Percent similarity: 19.39
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 171
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 19.30
+Percent similarity: 19.30
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_559292_YEAST/33:
+  Alignment length: 173
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 15.61
+Percent similarity: 15.61
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_505711_ANDGO/35:
+  Alignment length: 147
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 13.61
+Percent similarity: 13.61
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 171
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 16.96
+Percent similarity: 16.96
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_5911_TETTH/3278:
+  Alignment length: 164
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 16.46
+Percent similarity: 16.46
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_352472_DICDI/36:
+  Alignment length: 180
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 22.22
+Percent similarity: 22.22
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_353151_CRYHT/32:
+  Alignment length: 161
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 26.71
+Percent similarity: 26.71
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_296543_THAPS/33:
+  Alignment length: 150
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 22.67
+Percent similarity: 22.67
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 153
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 15.69
+Percent similarity: 15.69
+
+Results for LSUe_36329_PLAF7/369 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 151
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 16.56
+Percent similarity: 16.56
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_753081_BIGNC/31:
+  Alignment length: 116
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 21.55
+Percent similarity: 21.55
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_55529_GUITH/362:
+  Alignment length: 157
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 11.46
+Percent similarity: 11.46
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_554453_PLAMI/33:
+  Alignment length: 147
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 15.65
+Percent similarity: 15.65
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_238746_MICPO/32:
+  Alignment length: 140
+Identical residues: 30
+  Similar residues: 0
+  Percent identity: 21.43
+Percent similarity: 21.43
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_857967_ICHMG/34:
+  Alignment length: 126
+Identical residues: 14
+  Similar residues: 0
+  Percent identity: 11.11
+Percent similarity: 11.11
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 135
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 17.78
+Percent similarity: 17.78
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 143
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 13.99
+Percent similarity: 13.99
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_559292_YEAST/33:
+  Alignment length: 147
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 15.65
+Percent similarity: 15.65
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_505711_ANDGO/35:
+  Alignment length: 116
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 14.66
+Percent similarity: 14.66
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 143
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 15.38
+Percent similarity: 15.38
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_5911_TETTH/3278:
+  Alignment length: 130
+Identical residues: 12
+  Similar residues: 0
+  Percent identity: 9.23
+Percent similarity: 9.23
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_352472_DICDI/36:
+  Alignment length: 163
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 11.04
+Percent similarity: 11.04
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_353151_CRYHT/32:
+  Alignment length: 141
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 12.06
+Percent similarity: 12.06
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_296543_THAPS/33:
+  Alignment length: 136
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 12.50
+Percent similarity: 12.50
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 116
+Identical residues: 16
+  Similar residues: 0
+  Percent identity: 13.79
+Percent similarity: 13.79
+
+Results for LSUe_35144_PRYPA/306 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 115
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 14.78
+Percent similarity: 14.78
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_55529_GUITH/362:
+  Alignment length: 151
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 15.89
+Percent similarity: 15.89
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_554453_PLAMI/33:
+  Alignment length: 147
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 22.45
+Percent similarity: 22.45
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_238746_MICPO/32:
+  Alignment length: 143
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 23.08
+Percent similarity: 23.08
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_857967_ICHMG/34:
+  Alignment length: 148
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 10.14
+Percent similarity: 10.14
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 136
+Identical residues: 36
+  Similar residues: 0
+  Percent identity: 26.47
+Percent similarity: 26.47
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 146
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 21.92
+Percent similarity: 21.92
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_559292_YEAST/33:
+  Alignment length: 148
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 17.57
+Percent similarity: 17.57
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_505711_ANDGO/35:
+  Alignment length: 120
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 19.17
+Percent similarity: 19.17
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 148
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 15.54
+Percent similarity: 15.54
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_5911_TETTH/3278:
+  Alignment length: 143
+Identical residues: 15
+  Similar residues: 0
+  Percent identity: 10.49
+Percent similarity: 10.49
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_352472_DICDI/36:
+  Alignment length: 158
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 18.35
+Percent similarity: 18.35
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_353151_CRYHT/32:
+  Alignment length: 144
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 18.75
+Percent similarity: 18.75
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_296543_THAPS/33:
+  Alignment length: 135
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 17.78
+Percent similarity: 17.78
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 130
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 13.08
+Percent similarity: 13.08
+
+Results for LSUe_753081_BIGNC/31 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 128
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 15.63
+Percent similarity: 15.63
+
+Results for LSUe_55529_GUITH/362 vs LSUe_554453_PLAMI/33:
+  Alignment length: 177
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 16.38
+Percent similarity: 16.38
+
+Results for LSUe_55529_GUITH/362 vs LSUe_238746_MICPO/32:
+  Alignment length: 176
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 12.50
+Percent similarity: 12.50
+
+Results for LSUe_55529_GUITH/362 vs LSUe_857967_ICHMG/34:
+  Alignment length: 177
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 15.82
+Percent similarity: 15.82
+
+Results for LSUe_55529_GUITH/362 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 169
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 16.57
+Percent similarity: 16.57
+
+Results for LSUe_55529_GUITH/362 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 180
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 12.22
+Percent similarity: 12.22
+
+Results for LSUe_55529_GUITH/362 vs LSUe_559292_YEAST/33:
+  Alignment length: 180
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 18.89
+Percent similarity: 18.89
+
+Results for LSUe_55529_GUITH/362 vs LSUe_505711_ANDGO/35:
+  Alignment length: 153
+Identical residues: 25
+  Similar residues: 0
+  Percent identity: 16.34
+Percent similarity: 16.34
+
+Results for LSUe_55529_GUITH/362 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 180
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 16.11
+Percent similarity: 16.11
+
+Results for LSUe_55529_GUITH/362 vs LSUe_5911_TETTH/3278:
+  Alignment length: 177
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 17.51
+Percent similarity: 17.51
+
+Results for LSUe_55529_GUITH/362 vs LSUe_352472_DICDI/36:
+  Alignment length: 186
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 12.90
+Percent similarity: 12.90
+
+Results for LSUe_55529_GUITH/362 vs LSUe_353151_CRYHT/32:
+  Alignment length: 178
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 15.73
+Percent similarity: 15.73
+
+Results for LSUe_55529_GUITH/362 vs LSUe_296543_THAPS/33:
+  Alignment length: 167
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 14.37
+Percent similarity: 14.37
+
+Results for LSUe_55529_GUITH/362 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 167
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 12.57
+Percent similarity: 12.57
+
+Results for LSUe_55529_GUITH/362 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 165
+Identical residues: 18
+  Similar residues: 0
+  Percent identity: 10.91
+Percent similarity: 10.91
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_238746_MICPO/32:
+  Alignment length: 141
+Identical residues: 68
+  Similar residues: 0
+  Percent identity: 48.23
+Percent similarity: 48.23
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_857967_ICHMG/34:
+  Alignment length: 147
+Identical residues: 44
+  Similar residues: 0
+  Percent identity: 29.93
+Percent similarity: 29.93
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 146
+Identical residues: 60
+  Similar residues: 0
+  Percent identity: 41.10
+Percent similarity: 41.10
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 143
+Identical residues: 79
+  Similar residues: 0
+  Percent identity: 55.24
+Percent similarity: 55.24
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_559292_YEAST/33:
+  Alignment length: 149
+Identical residues: 63
+  Similar residues: 0
+  Percent identity: 42.28
+Percent similarity: 42.28
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_505711_ANDGO/35:
+  Alignment length: 143
+Identical residues: 24
+  Similar residues: 0
+  Percent identity: 16.78
+Percent similarity: 16.78
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 152
+Identical residues: 51
+  Similar residues: 0
+  Percent identity: 33.55
+Percent similarity: 33.55
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_5911_TETTH/3278:
+  Alignment length: 142
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 28.87
+Percent similarity: 28.87
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_352472_DICDI/36:
+  Alignment length: 166
+Identical residues: 42
+  Similar residues: 0
+  Percent identity: 25.30
+Percent similarity: 25.30
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_353151_CRYHT/32:
+  Alignment length: 143
+Identical residues: 57
+  Similar residues: 0
+  Percent identity: 39.86
+Percent similarity: 39.86
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_296543_THAPS/33:
+  Alignment length: 146
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 25.34
+Percent similarity: 25.34
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 142
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 31.69
+Percent similarity: 31.69
+
+Results for LSUe_554453_PLAMI/33 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 140
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 30.71
+Percent similarity: 30.71
+
+Results for LSUe_238746_MICPO/32 vs LSUe_857967_ICHMG/34:
+  Alignment length: 141
+Identical residues: 38
+  Similar residues: 0
+  Percent identity: 26.95
+Percent similarity: 26.95
+
+Results for LSUe_238746_MICPO/32 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 139
+Identical residues: 59
+  Similar residues: 0
+  Percent identity: 42.45
+Percent similarity: 42.45
+
+Results for LSUe_238746_MICPO/32 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 135
+Identical residues: 69
+  Similar residues: 0
+  Percent identity: 51.11
+Percent similarity: 51.11
+
+Results for LSUe_238746_MICPO/32 vs LSUe_559292_YEAST/33:
+  Alignment length: 145
+Identical residues: 61
+  Similar residues: 0
+  Percent identity: 42.07
+Percent similarity: 42.07
+
+Results for LSUe_238746_MICPO/32 vs LSUe_505711_ANDGO/35:
+  Alignment length: 139
+Identical residues: 28
+  Similar residues: 0
+  Percent identity: 20.14
+Percent similarity: 20.14
+
+Results for LSUe_238746_MICPO/32 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 149
+Identical residues: 44
+  Similar residues: 0
+  Percent identity: 29.53
+Percent similarity: 29.53
+
+Results for LSUe_238746_MICPO/32 vs LSUe_5911_TETTH/3278:
+  Alignment length: 134
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 29.85
+Percent similarity: 29.85
+
+Results for LSUe_238746_MICPO/32 vs LSUe_352472_DICDI/36:
+  Alignment length: 162
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 26.54
+Percent similarity: 26.54
+
+Results for LSUe_238746_MICPO/32 vs LSUe_353151_CRYHT/32:
+  Alignment length: 134
+Identical residues: 57
+  Similar residues: 0
+  Percent identity: 42.54
+Percent similarity: 42.54
+
+Results for LSUe_238746_MICPO/32 vs LSUe_296543_THAPS/33:
+  Alignment length: 142
+Identical residues: 52
+  Similar residues: 0
+  Percent identity: 36.62
+Percent similarity: 36.62
+
+Results for LSUe_238746_MICPO/32 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 134
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 25.37
+Percent similarity: 25.37
+
+Results for LSUe_238746_MICPO/32 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 132
+Identical residues: 38
+  Similar residues: 0
+  Percent identity: 28.79
+Percent similarity: 28.79
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_1928728_PAMIC/3:
+  Alignment length: 146
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 31.51
+Percent similarity: 31.51
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 143
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 31.47
+Percent similarity: 31.47
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_559292_YEAST/33:
+  Alignment length: 152
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 29.61
+Percent similarity: 29.61
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_505711_ANDGO/35:
+  Alignment length: 141
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 16.31
+Percent similarity: 16.31
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 151
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 21.19
+Percent similarity: 21.19
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_5911_TETTH/3278:
+  Alignment length: 131
+Identical residues: 62
+  Similar residues: 0
+  Percent identity: 47.33
+Percent similarity: 47.33
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_352472_DICDI/36:
+  Alignment length: 164
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 22.56
+Percent similarity: 22.56
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_353151_CRYHT/32:
+  Alignment length: 144
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 27.78
+Percent similarity: 27.78
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_296543_THAPS/33:
+  Alignment length: 147
+Identical residues: 37
+  Similar residues: 0
+  Percent identity: 25.17
+Percent similarity: 25.17
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 130
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 20.00
+Percent similarity: 20.00
+
+Results for LSUe_857967_ICHMG/34 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 130
+Identical residues: 20
+  Similar residues: 0
+  Percent identity: 15.38
+Percent similarity: 15.38
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_2044563_ANTWI/3:
+  Alignment length: 138
+Identical residues: 74
+  Similar residues: 0
+  Percent identity: 53.62
+Percent similarity: 53.62
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_559292_YEAST/33:
+  Alignment length: 148
+Identical residues: 68
+  Similar residues: 0
+  Percent identity: 45.95
+Percent similarity: 45.95
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_505711_ANDGO/35:
+  Alignment length: 138
+Identical residues: 34
+  Similar residues: 0
+  Percent identity: 24.64
+Percent similarity: 24.64
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 146
+Identical residues: 48
+  Similar residues: 0
+  Percent identity: 32.88
+Percent similarity: 32.88
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_5911_TETTH/3278:
+  Alignment length: 140
+Identical residues: 44
+  Similar residues: 0
+  Percent identity: 31.43
+Percent similarity: 31.43
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_352472_DICDI/36:
+  Alignment length: 161
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 24.84
+Percent similarity: 24.84
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_353151_CRYHT/32:
+  Alignment length: 141
+Identical residues: 51
+  Similar residues: 0
+  Percent identity: 36.17
+Percent similarity: 36.17
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_296543_THAPS/33:
+  Alignment length: 140
+Identical residues: 49
+  Similar residues: 0
+  Percent identity: 35.00
+Percent similarity: 35.00
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 131
+Identical residues: 35
+  Similar residues: 0
+  Percent identity: 26.72
+Percent similarity: 26.72
+
+Results for LSUe_1928728_PAMIC/3 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 129
+Identical residues: 36
+  Similar residues: 0
+  Percent identity: 27.91
+Percent similarity: 27.91
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_559292_YEAST/33:
+  Alignment length: 146
+Identical residues: 69
+  Similar residues: 0
+  Percent identity: 47.26
+Percent similarity: 47.26
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_505711_ANDGO/35:
+  Alignment length: 143
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 16.08
+Percent similarity: 16.08
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 153
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 26.80
+Percent similarity: 26.80
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_5911_TETTH/3278:
+  Alignment length: 134
+Identical residues: 48
+  Similar residues: 0
+  Percent identity: 35.82
+Percent similarity: 35.82
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_352472_DICDI/36:
+  Alignment length: 163
+Identical residues: 48
+  Similar residues: 0
+  Percent identity: 29.45
+Percent similarity: 29.45
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_353151_CRYHT/32:
+  Alignment length: 136
+Identical residues: 63
+  Similar residues: 0
+  Percent identity: 46.32
+Percent similarity: 46.32
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_296543_THAPS/33:
+  Alignment length: 146
+Identical residues: 58
+  Similar residues: 0
+  Percent identity: 39.73
+Percent similarity: 39.73
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 134
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 33.58
+Percent similarity: 33.58
+
+Results for LSUe_2044563_ANTWI/3 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 132
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 34.09
+Percent similarity: 34.09
+
+Results for LSUe_559292_YEAST/33 vs LSUe_505711_ANDGO/35:
+  Alignment length: 143
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 27.27
+Percent similarity: 27.27
+
+Results for LSUe_559292_YEAST/33 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 157
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 27.39
+Percent similarity: 27.39
+
+Results for LSUe_559292_YEAST/33 vs LSUe_5911_TETTH/3278:
+  Alignment length: 144
+Identical residues: 45
+  Similar residues: 0
+  Percent identity: 31.25
+Percent similarity: 31.25
+
+Results for LSUe_559292_YEAST/33 vs LSUe_352472_DICDI/36:
+  Alignment length: 160
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 28.75
+Percent similarity: 28.75
+
+Results for LSUe_559292_YEAST/33 vs LSUe_353151_CRYHT/32:
+  Alignment length: 144
+Identical residues: 50
+  Similar residues: 0
+  Percent identity: 34.72
+Percent similarity: 34.72
+
+Results for LSUe_559292_YEAST/33 vs LSUe_296543_THAPS/33:
+  Alignment length: 151
+Identical residues: 43
+  Similar residues: 0
+  Percent identity: 28.48
+Percent similarity: 28.48
+
+Results for LSUe_559292_YEAST/33 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 148
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 19.59
+Percent similarity: 19.59
+
+Results for LSUe_559292_YEAST/33 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 146
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 21.92
+Percent similarity: 21.92
+
+Results for LSUe_505711_ANDGO/35 vs LSUe_3055_CHLRE/3114:
+  Alignment length: 142
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 18.31
+Percent similarity: 18.31
+
+Results for LSUe_505711_ANDGO/35 vs LSUe_5911_TETTH/3278:
+  Alignment length: 136
+Identical residues: 17
+  Similar residues: 0
+  Percent identity: 12.50
+Percent similarity: 12.50
+
+Results for LSUe_505711_ANDGO/35 vs LSUe_352472_DICDI/36:
+  Alignment length: 158
+Identical residues: 27
+  Similar residues: 0
+  Percent identity: 17.09
+Percent similarity: 17.09
+
+Results for LSUe_505711_ANDGO/35 vs LSUe_353151_CRYHT/32:
+  Alignment length: 133
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 15.79
+Percent similarity: 15.79
+
+Results for LSUe_505711_ANDGO/35 vs LSUe_296543_THAPS/33:
+  Alignment length: 130
+Identical residues: 19
+  Similar residues: 0
+  Percent identity: 14.62
+Percent similarity: 14.62
+
+Results for LSUe_505711_ANDGO/35 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 110
+Identical residues: 21
+  Similar residues: 0
+  Percent identity: 19.09
+Percent similarity: 19.09
+
+Results for LSUe_505711_ANDGO/35 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 108
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 21.30
+Percent similarity: 21.30
+
+Results for LSUe_3055_CHLRE/3114 vs LSUe_5911_TETTH/3278:
+  Alignment length: 148
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 22.30
+Percent similarity: 22.30
+
+Results for LSUe_3055_CHLRE/3114 vs LSUe_352472_DICDI/36:
+  Alignment length: 166
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 23.49
+Percent similarity: 23.49
+
+Results for LSUe_3055_CHLRE/3114 vs LSUe_353151_CRYHT/32:
+  Alignment length: 150
+Identical residues: 41
+  Similar residues: 0
+  Percent identity: 27.33
+Percent similarity: 27.33
+
+Results for LSUe_3055_CHLRE/3114 vs LSUe_296543_THAPS/33:
+  Alignment length: 145
+Identical residues: 36
+  Similar residues: 0
+  Percent identity: 24.83
+Percent similarity: 24.83
+
+Results for LSUe_3055_CHLRE/3114 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 141
+Identical residues: 32
+  Similar residues: 0
+  Percent identity: 22.70
+Percent similarity: 22.70
+
+Results for LSUe_3055_CHLRE/3114 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 141
+Identical residues: 23
+  Similar residues: 0
+  Percent identity: 16.31
+Percent similarity: 16.31
+
+Results for LSUe_5911_TETTH/3278 vs LSUe_352472_DICDI/36:
+  Alignment length: 161
+Identical residues: 29
+  Similar residues: 0
+  Percent identity: 18.01
+Percent similarity: 18.01
+
+Results for LSUe_5911_TETTH/3278 vs LSUe_353151_CRYHT/32:
+  Alignment length: 133
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 34.59
+Percent similarity: 34.59
+
+Results for LSUe_5911_TETTH/3278 vs LSUe_296543_THAPS/33:
+  Alignment length: 139
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 28.78
+Percent similarity: 28.78
+
+Results for LSUe_5911_TETTH/3278 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 124
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 25.00
+Percent similarity: 25.00
+
+Results for LSUe_5911_TETTH/3278 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 122
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 21.31
+Percent similarity: 21.31
+
+Results for LSUe_352472_DICDI/36 vs LSUe_353151_CRYHT/32:
+  Alignment length: 161
+Identical residues: 40
+  Similar residues: 0
+  Percent identity: 24.84
+Percent similarity: 24.84
+
+Results for LSUe_352472_DICDI/36 vs LSUe_296543_THAPS/33:
+  Alignment length: 163
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 20.25
+Percent similarity: 20.25
+
+Results for LSUe_352472_DICDI/36 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 166
+Identical residues: 22
+  Similar residues: 0
+  Percent identity: 13.25
+Percent similarity: 13.25
+
+Results for LSUe_352472_DICDI/36 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 164
+Identical residues: 26
+  Similar residues: 0
+  Percent identity: 15.85
+Percent similarity: 15.85
+
+Results for LSUe_353151_CRYHT/32 vs LSUe_296543_THAPS/33:
+  Alignment length: 135
+Identical residues: 51
+  Similar residues: 0
+  Percent identity: 37.78
+Percent similarity: 37.78
+
+Results for LSUe_353151_CRYHT/32 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 130
+Identical residues: 44
+  Similar residues: 0
+  Percent identity: 33.85
+Percent similarity: 33.85
+
+Results for LSUe_353151_CRYHT/32 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 128
+Identical residues: 39
+  Similar residues: 0
+  Percent identity: 30.47
+Percent similarity: 30.47
+
+Results for LSUe_296543_THAPS/33 vs LSUe_1333499_NAOCE/3:
+  Alignment length: 126
+Identical residues: 33
+  Similar residues: 0
+  Percent identity: 26.19
+Percent similarity: 26.19
+
+Results for LSUe_296543_THAPS/33 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 124
+Identical residues: 31
+  Similar residues: 0
+  Percent identity: 25.00
+Percent similarity: 25.00
+
+Results for LSUe_1333499_NAOCE/3 vs LSUe_1315715_PIJUD/3:
+  Alignment length: 85
+Identical residues: 46
+  Similar residues: 0
+  Percent identity: 54.12
+Percent similarity: 54.12

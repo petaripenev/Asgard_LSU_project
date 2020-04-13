@@ -1,0 +1,5 @@
+./venv/
+./env/
+./.vscode/
+*.pyc
+z_arx
